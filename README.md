@@ -21,8 +21,8 @@ $ npm install
 ## Running the app
 
 ```bash
-# start bot
-$ node bot.js
+# start backend
+$ npm start
 ```
 
 
