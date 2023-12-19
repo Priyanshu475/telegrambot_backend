@@ -5,9 +5,9 @@
 A telegram bot that allows users to subscribe for getting daily update on weather and an admin panel.
 ## Setup
 
-Nest.js has been used for the backend.
-React has been used for the frontend.
-Node.js has been used for the telegram bot.
+Nest.JS has been used for the backend.
+React.JS has been used for the frontend.
+Node.JS has been used for the telegram bot.
 
 
 ## Installation
