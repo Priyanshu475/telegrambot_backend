@@ -36,9 +36,5 @@ $ node bot.js
 ## Admin Panel 
 
 The admin panel has been created using react.js and deployed using vercel.
-The admin panel is available at [Admin Panel](https://github.com/Priyanshu475/telegrambot_client_admin_panel)
-
-## Stay in touch
-
-- Author - jtharian13@gmail.com
+The admin panel is available at [Admin Panel](https://telegrambot-client.vercel.app/)
 
